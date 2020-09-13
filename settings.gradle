@@ -1,0 +1,3 @@
+rootProject.name='Light_OpenCv'
+include ':app'
+include ':openCVLibrary345'
